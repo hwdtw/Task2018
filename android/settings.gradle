@@ -1,0 +1,3 @@
+rootProject.name = 'Task2018'
+
+include ':app'
